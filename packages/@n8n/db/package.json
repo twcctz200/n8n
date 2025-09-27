@@ -29,7 +29,7 @@
     "@n8n/di": "workspace:^",
     "@n8n/permissions": "workspace:^",
     "@n8n/typeorm": "catalog:",
-    "class-validator": "0.14.0",
+    "class-validator": "0.14.2",
     "flatted": "catalog:",
     "lodash": "catalog:",
     "n8n-core": "workspace:^",
