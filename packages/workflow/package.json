@@ -62,7 +62,7 @@
     "lodash": "catalog:",
     "luxon": "catalog:",
     "md5": "2.3.0",
-    "recast": "0.22.0",
+    "recast": "0.23.11",
     "title-case": "3.0.3",
     "transliteration": "2.3.5",
     "xml2js": "catalog:",
