@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@currents/playwright": "^1.15.3",
-    "@playwright/test": "1.54.2",
+    "@playwright/test": "1.55.1",
     "@types/lodash": "catalog:",
     "eslint-plugin-playwright": "2.2.2",
     "generate-schema": "2.6.0",
