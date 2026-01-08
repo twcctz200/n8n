@@ -21,7 +21,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "axios": "catalog:"
+    "axios": "1.12.0"
   },
   "devDependencies": {
     "@n8n/typescript-config": "workspace:*"
