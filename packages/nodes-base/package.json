@@ -913,7 +913,7 @@
     "jsonwebtoken": "catalog:",
     "kafkajs": "2.2.4",
     "ldapts": "4.2.6",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "lossless-json": "1.0.5",
     "luxon": "catalog:",
     "mailparser": "3.6.7",
