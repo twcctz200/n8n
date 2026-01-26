@@ -58,7 +58,7 @@
     "@tanstack/vue-table": "^8.21.2",
     "element-plus": "catalog:frontend",
     "is-emoji-supported": "^0.0.5",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "markdown-it": "^13.0.2",
     "markdown-it-emoji": "^2.0.2",
     "markdown-it-link-attributes": "^4.0.1",
