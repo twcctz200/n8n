@@ -59,7 +59,7 @@
     "element-plus": "catalog:frontend",
     "is-emoji-supported": "^0.0.5",
     "lodash": "catalog:",
-    "markdown-it": "^13.0.2",
+    "markdown-it": "^14.1.1",
     "markdown-it-emoji": "^2.0.2",
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-task-lists": "^2.1.1",
