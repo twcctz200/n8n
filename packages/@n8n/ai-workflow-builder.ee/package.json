@@ -38,14 +38,14 @@
   },
   "dependencies": {
     "@langchain/anthropic": "catalog:",
-    "@langchain/core": "catalog:",
+    "@langchain/core": "1.1.7",
     "@langchain/langgraph": "0.2.74",
     "@langchain/openai": "catalog:",
     "@n8n/backend-common": "workspace:^",
     "@n8n/config": "workspace:*",
     "@n8n/di": "workspace:*",
     "@n8n_io/ai-assistant-sdk": "catalog:",
-    "langsmith": "^0.3.45",
+    "langsmith": "^0.4.6",
     "n8n-workflow": "workspace:*",
     "picocolors": "catalog:",
     "zod": "catalog:"
