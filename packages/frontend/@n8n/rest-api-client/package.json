@@ -39,7 +39,7 @@
     "@n8n/utils": "workspace:*",
     "js-base64": "catalog:",
     "n8n-workflow": "workspace:*",
-    "axios": "catalog:",
+    "axios": "1.13.5",
     "flatted": "catalog:"
   },
   "devDependencies": {
