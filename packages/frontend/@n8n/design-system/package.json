@@ -39,7 +39,7 @@
     "@vitejs/plugin-vue": "catalog:frontend",
     "@vitest/coverage-v8": "catalog:",
     "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.10",
     "sass": "^1.71.1",
     "tailwindcss": "^3.4.3",
     "unplugin-icons": "catalog:frontend",
